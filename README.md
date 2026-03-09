@@ -25,6 +25,7 @@ I'm a high school student from Istanbul, building a strong foundation in program
 
 | Project | Description |
 |---|---|
+| [Cosmic Birthday](https://github.com/Fwoopr/Cosmic-Birthday) | Generates a PDF certificate showing where the ISS was at the moment of your birth — uses historical ISS API, reverse geocoding & fpdf2 |
 | [Caesar Cipher](https://github.com/Fwoopr/caesar-cipher) | Encrypt, decrypt & crack Caesar ciphers with English word detection |
 | [Sudoku Solver](https://github.com/Fwoopr/sudoku-solver) | Fetches puzzles from API and visualizes the solving process |
 | [YouTube Downloader](https://github.com/Fwoopr/Youtube-Downloader) | Ad-free command-line YouTube video downloader |
