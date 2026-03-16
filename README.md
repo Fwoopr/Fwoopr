@@ -19,6 +19,7 @@ I'm a high school student from Istanbul, building a strong foundation in program
 | [Binary Counter](https://github.com/Fwoopr/binary-counter) | 4-bit LED counter (0–15) | Digital logic, bitwise ops |
 | [Dimmable LED](https://github.com/Fwoopr/dimmable-led) | Potentiometer-controlled brightness | PWM, analog input |
 | [Serial LED Control](https://github.com/Fwoopr/serial-led-control) | Color & blink count via Serial Monitor | Serial communication, input validation |
+| [Joystick LED](https://github.com/Fwoopr/joystick-led) | 4-directional LED indicator via joystick | Analog input, INPUT_PULLUP, dead zone |
 
 ---
 
