@@ -20,6 +20,7 @@ I'm a high school student from Istanbul, building a strong foundation in program
 | [Dimmable LED](https://github.com/Fwoopr/dimmable-led) | Potentiometer-controlled brightness | PWM, analog input |
 | [Serial LED Control](https://github.com/Fwoopr/serial-led-control) | Color & blink count via Serial Monitor | Serial communication, input validation |
 | [Joystick LED](https://github.com/Fwoopr/joystick-led) | 4-directional LED indicator via joystick | Analog input, INPUT_PULLUP, dead zone |
+| [8-Bit Binary Counter](https://github.com/Fwoopr/8-bit-binary-counter) | 0–255 counter using 74HC595 shift register | SPI, serial-to-parallel, shift register |
 
 ---
 
