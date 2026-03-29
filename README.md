@@ -33,6 +33,7 @@ I'm a high school student, building a strong foundation in programming and elect
 | [Caesar Cipher](https://github.com/Fwoopr/caesar-cipher) | Encrypt, decrypt & crack Caesar ciphers with English word detection |
 | [Sudoku Solver](https://github.com/Fwoopr/sudoku-solver) | Fetches puzzles from API and visualizes the solving process |
 | [YouTube Downloader](https://github.com/Fwoopr/Youtube-Downloader) | Ad-free command-line YouTube video downloader |
+| [Unit Converter](https://github.com/Fwoopr/unit-converter) | CLI tool for length & mass conversions with SI/imperial support, scientific notation, and pytest coverage |
 
 ---
 
