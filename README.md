@@ -1,6 +1,6 @@
 # Hi, I'm Deniz 👋
 
-I'm a high school student from Istanbul, building a strong foundation in programming and electronics before studying **Electrical and Computer Engineering at TU Munich**.
+I'm a high school student, building a strong foundation in programming and electronics before studying **Electrical and Computer Engineering at TU Munich**.
 
 ---
 
@@ -44,6 +44,6 @@ I'm a high school student from Istanbul, building a strong foundation in program
 
 ---
 
-## 📍 Istanbul, Turkey &nbsp;|&nbsp; 🎯 TU Munich EI 2027
+## 🎯 TU Munich EI 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-usluer/)
