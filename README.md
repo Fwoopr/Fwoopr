@@ -22,6 +22,7 @@ I'm a high school student, building a strong foundation in programming and elect
 | [Joystick LED](https://github.com/Fwoopr/joystick-led) | 4-directional LED indicator via joystick | Analog input, INPUT_PULLUP, dead zone |
 | [8-Bit Binary Counter](https://github.com/Fwoopr/8-bit-binary-counter) | 0–255 counter using 74HC595 shift register | SPI, serial-to-parallel, shift register |
 | [LCD Calculator](https://github.com/Fwoopr/lcd-calculator) | 16x2 LCD calculator using Serial Monitor for user input | I2C, serial parsing, float arithmetic |
+| [Ultrasonic Radar](https://github.com/Fwoopr/ultrasonic-radar) | 20°–160° spatial scanner with real-time distance mapping | Non-blocking timing (millis()), Sensor Fusion, Trigonometric Mapping |
 
 ---
 
