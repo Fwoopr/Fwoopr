@@ -6,13 +6,13 @@ I'm a high school student, building a strong foundation in programming and elect
 
 ## 🔧 What I'm Working On
 
-- **Arduino** — Learning embedded systems through hands-on hardware projects
+- **Arduino/ESP32** — Learning embedded systems and IoT through hands-on hardware projects
 - **Python** — Building practical tools (ciphers, solvers, automation)
 - Preparing for **TUM EI** starting 2027
 
 ---
 
-## ⚡ Arduino Projects
+## ⚡ Arduino/ESP32 Projects
 
 | Project | Description | Concepts |
 |---|---|---|
@@ -23,6 +23,7 @@ I'm a high school student, building a strong foundation in programming and elect
 | [8-Bit Binary Counter](https://github.com/Fwoopr/8-bit-binary-counter) | 0–255 counter using 74HC595 shift register | SPI, serial-to-parallel, shift register |
 | [LCD Calculator](https://github.com/Fwoopr/lcd-calculator) | 16x2 LCD calculator using Serial Monitor for user input | I2C, serial parsing, float arithmetic |
 | [Ultrasonic Radar](https://github.com/Fwoopr/ultrasonic-radar) | 20°–160° spatial scanner with real-time distance mapping | Non-blocking timing (millis()), Sensor Fusion, Trigonometric Mapping |
+| [ISS Tracker](https://github.com/Fwoopr/esp32-iss-location-display) | Real-time ISS tracking with OLED display and IP-based auto-location | REST API, JSON Parsing, I2C OLED, IP Geolocation |
 
 ---
 
